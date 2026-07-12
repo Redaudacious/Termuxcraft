@@ -1,0 +1,6 @@
+.idea/
+*.pem
+*.key
+.playit-secret
+credentials*.json
+.DS_Store
